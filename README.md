@@ -9,9 +9,9 @@
 - 🤔 Busco ayuda en: TODO. | Looking for help in: ALL
 
 
-- 📫 Pueden encontrarme en | you can find me at: 
-  www.marcosgustavocortina.com
-  https://www.instagram.com/orientacioncaba/
+- 📫 Pueden encontrarme en | you can find me at:
+	- www.marcosgustavocortina.com
+	- https://www.instagram.com/orientacioncaba/
 
 
 - 😄 Estudié: Licenciado en sistemas navales, técnico superior en administración, abogado, y bla bla. | I studied: Graduated in naval systems, superior technician in administration, lawyer, and blah blah.
